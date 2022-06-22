@@ -11,7 +11,7 @@ $products = array(
         "name" => "Destornillador estrella 7mm",
         "description" => "Destornillador estrella 7mm, mango de goma, punta imantada.",
         "price" => "14.5",
-        "img src" => "DestornilladorEstrella.jpg"/>,
+        <img src="DestornilladorEstrella.jpg" />,
     ),
     "DATS" => array(
         "name" => "Dado de ajuste continuo, pequeño",
